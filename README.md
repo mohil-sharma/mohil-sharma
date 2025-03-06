@@ -9,7 +9,7 @@
 	•	Tech Startups & Entrepreneurship<br>
 <br>
 🌱 I’m currently learning…<br>
-	•	Web Development (React, Next.js, Tailwind CSS)<br>
+	•	Web Development (React, Tailwind CSS)<br>
 	•	DSA & Problem-Solving<br>
 <br>
 💞️ I’m looking to collaborate on…<br>
