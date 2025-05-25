@@ -5,13 +5,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🚀+Welcome+to+my+Digital+Universe!;💻+Building+Tomorrow's+Solutions+Today;🌟+Code+%7C+Create+%7C+Innovate+%7C+Inspire;🔥+Let's+Transform+Ideas+into+Reality!)](https://git.io/typing-svg)
 
 <div style="margin: 30px 0;">
-  <a href="https://linkedin.com/in/mohil-sharma1">
+  <a href="https://www.linkedin.com/in/mohil-sharma-b73706289/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
   </a>
   <a href="https://github.com/mohil-sharma">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
   </a>
-  <a href="mailto:mohilsharma.dev@gmail.com">
+  <a href="mailto:mohil.sharma1@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
   </a>
 </div>
@@ -60,7 +60,7 @@ console.log("Let's build something amazing together! 🚀");
   <img src="https://github-profile-trophy.vercel.app/?username=mohil-sharma&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
-## 🛠️ Tech Arsenal
+<!--## 🛠️ Tech Arsenal
 
 <div align="center">
 
@@ -83,9 +83,9 @@ console.log("Let's build something amazing together! 🚀");
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-</div>
+</div>-->
 
-## 🌟 Featured Projects
+<!--## 🌟 Featured Projects
 
 <div align="center">
 <table>
@@ -128,7 +128,7 @@ console.log("Let's build something amazing together! 🚀");
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mohil-sharma&repo=Portfolio&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/mohil-sharma/Portfolio)
 
 </td>
-<td width="50%">
+<td width="50%">-->
 
 ### 🚀 More Projects Coming Soon...
 **Innovation in Progress**
@@ -156,11 +156,11 @@ console.log("Let's build something amazing together! 🚀");
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote" />
 </div>
 
-## 🎵 Spotify Playing
+<!---## 🎵 Spotify Playing
 
 <div align="center">
   <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Now Playing" />
-</div>
+</div>-->
 
 ## 🌐 Let's Connect & Collaborate
 
@@ -172,8 +172,8 @@ console.log("Let's build something amazing together! 🚀");
 <br>
 
 ### 📫 Reach Out:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohil-sharma1)
-[![Email](https://img.shields.io/badge/Email-Drop_a_Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohilsharma.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohil-sharma-b73706289/)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohil.sharma1@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow_Journey-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohil-sharma)
 
 <br>
