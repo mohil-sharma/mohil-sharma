@@ -1,70 +1,93 @@
-![Header](https://github.com/MohilSharma/MohilSharma/blob/main/assets/header.png)
+<div align="center">
+  
+  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=300&section=header&text=Mohil%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=62)
 
-# 👋 Hi, I'm Mohil Sharma
-### 🚀 Aspiring Software Engineer | 🌟 Open Source Contributor | 🖤 Lifelong Learner
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Innovating+One+Commit+at+a+Time;Let's+Build+the+Future+Together)](https://git.io/typing-svg)
 
-I thrive on turning ideas into reality through code and building impactful tech solutions.
+</div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/mohil-sharma)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&style=flat-square)](https://github.com/MohilSharma)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%F0%9F%92%BB-lightgrey?style=flat-square)](https://github.com/MohilSharma/Portfolio)
-
----
+<p align="center">
+  <a href="https://linkedin.com/in/mohil-sharma1"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/MohilSharma01"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ## 🚀 About Me
-- 💻 Currently working on **DSA** and **Web Development**.
-- 🛠️ Exploring **Next.js**, **TypeScript**, and **Cloud Technologies**.
-- 🌱 Always eager to learn new tech and tools.
-- 🎯 Passionate about **Full Stack Development**, **Clean Code**, and **Entrepreneurship**.
-- 📫 Let’s connect: [Email](mailto:mohil.sharma1@gmail.com)
 
----
+I’m **Mohil Sharma**, a passionate Full-Stack Developer always on the lookout for innovative solutions. I thrive on challenges and love to keep my tech skills sharp and up-to-date.
 
-## 💡 Featured Projects
-#✨ [**VIT Job Portal**](https://github.com/MohilSharma/VIT-Job-Portal) – A placement portal connecting students and companies.  
-#✨ [**Portfolio Website**](https://github.com/MohilSharma/Portfolio) – Showcasing my projects and tech journey.  
-#✨ [**Hackathon Projects**](https://github.com/MohilSharma) – Contributions to hackathons and open-source communities.
+## 🏅 GitHub Metrics
 
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohilSharma01&theme=tokyonight" alt="Mohil's GitHub Summary" />
+</p>
 
-## 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohilSharma01&theme=tokyonight" alt="Top Languages by Repo" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohilSharma01&theme=tokyonight" alt="Top Languages by Commit" />
+</p>
 
----
-
-## 📈 GitHub Stats
-| ![Mohil's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohilSharma&show_icons=true&theme=radical&hide=issues) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohilSharma&layout=compact&theme=radical) |
-| --- | --- |
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MohilSharma&theme=radical)
-
----
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohilSharma01&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohilSharma01&theme=tokyonight" alt="Productive Time" />
+</p>
 
 ## 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=MohilSharma&theme=radical&margin-w=10&margin-h=10)
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MohilSharma01&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
-## 🌟 Contribution Graph
-![Mohil's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=MohilSharma&theme=github-compact)
+## 📊 GitHub Stats
 
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MohilSharma01&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>
 
-## 💬 Quote to Live By
-> “First, solve the problem. Then, write the code.”  
-> — John Johnson
+## 🌟 Featured Projects
 
----
+<p align="center">
+  <a href="https://github.com/MohilSharma01/DealHarbor">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohilSharma01&repo=DealHarbor&theme=tokyonight" alt="DealHarbor" />
+  </a>
+  <a href="https://github.com/MohilSharma01/streetGuardian">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohilSharma01&repo=streetGuardian&theme=tokyonight" alt="StreetGuardian" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/MohilSharma01/Portfolio">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohilSharma01&repo=Portfolio&theme=tokyonight" alt="Portfolio Website" />
+  </a>
+</p>
 
-## 🔗 Let’s Connect!
-![Profile Views](https://komarev.com/ghpvc/?username=MohilSharma&color=blueviolet&style=flat-square)
+## 🛠️ Skills & Technologies
 
----
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,ts,java,python,spring,html,css,react,js,tailwind,mysql,mongodb,nodejs,cpp&theme=dark" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,aws,gcp,firebase,graphql,redux,sass,webpack,babel,jest&theme=dark" />
+</p>
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohilSharma01&theme=react-dark" alt="Contribution Graph" />
+</p>
+
+## 💡 A Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
+## 👁️ Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohilSharma01&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
+</p>
+
+<div align="center">
+  
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=200&section=footer&text=Let's%20Connect%20and%20Code!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65)
+
+</div>
