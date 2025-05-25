@@ -1,93 +1,195 @@
 <div align="center">
-  
-  ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=300&section=header&text=Mohil%20Sharma&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=62)
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;Innovating+One+Commit+at+a+Time;Let's+Build+the+Future+Together)](https://git.io/typing-svg)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20,24&height=350&section=header&text=Mohil%20Sharma&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=✨%20Crafting%20Digital%20Experiences%20%7C%20Full-Stack%20Architect%20✨&descAlignY=55&descAlign=62&descSize=16)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=2500&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=🚀+Welcome+to+my+Digital+Universe!;💻+Building+Tomorrow's+Solutions+Today;🌟+Code+%7C+Create+%7C+Innovate+%7C+Inspire;🔥+Let's+Transform+Ideas+into+Reality!)](https://git.io/typing-svg)
+
+<div style="margin: 30px 0;">
+  <a href="https://linkedin.com/in/mohil-sharma1">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/mohil-sharma">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
+  </a>
+  <a href="mailto:mohilsharma.dev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email" />
+  </a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/mohil-sharma1"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://github.com/MohilSharma01"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+## 🎯 About Me
 
-## 🚀 About Me
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-I’m **Mohil Sharma**, a passionate Full-Stack Developer always on the lookout for innovative solutions. I thrive on challenges and love to keep my tech skills sharp and up-to-date.
+```typescript
+const mohil = {
+    role: "Full-Stack Developer",
+    location: "India 🇮🇳",
+    passions: ["Innovation", "Clean Code", "Problem Solving"],
+    currentFocus: "Building scalable web applications",
+    techPhilosophy: "Code is poetry written in logic",
+    funFact: "I debug with console.log and I'm not ashamed! 😄"
+};
 
-## 🏅 GitHub Metrics
+console.log("Let's build something amazing together! 🚀");
+```
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohilSharma01&theme=tokyonight" alt="Mohil's GitHub Summary" />
-</p>
+<br clear="right"/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohilSharma01&theme=tokyonight" alt="Top Languages by Repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohilSharma01&theme=tokyonight" alt="Top Languages by Commit" />
-</p>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MohilSharma01&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohilSharma01&theme=tokyonight" alt="Productive Time" />
-</p>
+## 📊 GitHub Analytics
 
-## 🏆 GitHub Trophies
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohil-sharma&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohil-sharma&layout=compact&langs_count=8&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohilSharma01&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
+<div align="center" style="margin: 20px 0;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohil-sharma&theme=react&hide_border=true&stroke=0000&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak Stats" />
+</div>
 
-## 📊 GitHub Stats
+## 🏆 Achievement Showcase
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MohilSharma01&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohil-sharma&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=2&column=4" alt="GitHub Trophies" />
+</div>
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 🎨 Frontend Mastery
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,html,css,tailwind,sass,redux,materialui&theme=dark" />
+
+### ⚡ Backend Powerhouse  
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,java,spring,cpp,graphql,prisma&theme=dark" />
+
+### 🗄️ Database Wizardry
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis,firebase&theme=dark" />
+
+### ☁️ Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git,github,vercel,netlify&theme=dark" />
+
+### 🔧 Development Tools
+<img src="https://skillicons.dev/icons?i=vscode,postman,figma,linux,bash,jest,webpack,babel&theme=dark" />
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
 
 ## 🌟 Featured Projects
 
-<p align="center">
-  <a href="https://github.com/MohilSharma01/DealHarbor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohilSharma01&repo=DealHarbor&theme=tokyonight" alt="DealHarbor" />
-  </a>
-  <a href="https://github.com/MohilSharma01/streetGuardian">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohilSharma01&repo=streetGuardian&theme=tokyonight" alt="StreetGuardian" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/MohilSharma01/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MohilSharma01&repo=Portfolio&theme=tokyonight" alt="Portfolio Website" />
-  </a>
-</p>
+<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-## 🛠️ Skills & Technologies
+### 🛒 [DealHarbor](https://github.com/mohil-sharma/DealHarbor)
+**E-commerce Platform**
+- 🚀 Next.js & TypeScript
+- 🎨 Modern UI/UX Design  
+- 💳 Secure Payment Integration
+- 📱 Fully Responsive
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,ts,java,python,spring,html,css,react,js,tailwind,mysql,mongodb,nodejs,cpp&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,kubernetes,aws,gcp,firebase,graphql,redux,sass,webpack,babel,jest&theme=dark" />
-</p>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mohil-sharma&repo=DealHarbor&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/mohil-sharma/DealHarbor)
 
-## 📈 Contribution Graph
+</td>
+<td width="50%">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohilSharma01&theme=react-dark" alt="Contribution Graph" />
-</p>
+### 🛡️ [StreetGuardian](https://github.com/mohil-sharma/streetGuardian)
+**Safety & Security App**
+- 🔐 Real-time Monitoring
+- 📍 Location-based Services
+- 🚨 Emergency Alerts
+- 📊 Analytics Dashboard
 
-## 💡 A Random Dev Quote
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mohil-sharma&repo=streetGuardian&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/mohil-sharma/streetGuardian)
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-## 👁️ Profile Views
+### 🌐 [Portfolio Website](https://github.com/mohil-sharma/Portfolio)
+**Personal Showcase**
+- ✨ Interactive Animations
+- 🎯 Modern Design System
+- 📱 Mobile-First Approach
+- ⚡ Optimized Performance
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohilSharma01&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
-</p>
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=mohil-sharma&repo=Portfolio&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/mohil-sharma/Portfolio)
+
+</td>
+<td width="50%">
+
+### 🚀 More Projects Coming Soon...
+**Innovation in Progress**
+- 🔬 Exploring AI/ML Integration
+- 🌱 Sustainable Tech Solutions
+- 🎮 Interactive Web Experiences
+- 📈 Data Visualization Tools
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="200" />
+
+</td>
+</tr>
+</table>
+</div>
+
+## 📈 Contribution Activity
 
 <div align="center">
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:3498db,100:8e44ad&height=200&section=footer&text=Let's%20Connect%20and%20Code!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohil-sharma&theme=react-dark&bg_color=0D1117&hide_border=true&line=58A6FF&point=58A6FF&color=C9D1D9&area_color=58A6FF&area=true" alt="Contribution Graph" />
+</div>
+
+## 💭 Developer Wisdom
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true" alt="Random Dev Quote" />
+</div>
+
+## 🎵 Spotify Playing
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/spotify-playing" alt="Spotify Now Playing" />
+</div>
+
+## 🌐 Let's Connect & Collaborate
+
+<div align="center">
+
+### 💬 Always Open For:
+🤝 **Collaboration** • 💡 **Innovation** • 🚀 **New Opportunities** • 📚 **Knowledge Sharing**
+
+<br>
+
+### 📫 Reach Out:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mohil-sharma1)
+[![Email](https://img.shields.io/badge/Email-Drop_a_Line-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohilsharma.dev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow_Journey-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mohil-sharma)
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=mohil-sharma&color=blueviolet&style=for-the-badge&label=Profile+Views" alt="Profile Views">
+
+</div>
+
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<div align="center">
+
+### ⭐ *"The best way to predict the future is to create it"* ⭐
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,6,20,24&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together%20🚀&descAlignY=85&descAlign=50)
 
 </div>
