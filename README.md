@@ -188,7 +188,7 @@ console.log("Let's build something amazing together! 🚀");
 
 <div align="center">
 
-### ⭐ *"The best way to predict the future is to create it" ⭐
+### ⭐ *"The best way to predict the future is to create it"* ⭐
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,35,40,45&height=200&section=footer&text=Thanks%20for%20Visiting!&fontSize=32&fontColor=ffffff&animation=fadeIn&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together%20🚀&descAlignY=85&descAlign=50)
 
