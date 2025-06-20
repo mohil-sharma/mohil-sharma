@@ -27,7 +27,7 @@
 ```typescript
 const mohil = {
     role: "Full-Stack Developer",
-    location: "India 🇮🇳",
+    location: "New Delhi,India 🇮🇳",
     passions: ["Innovation", "Clean Code", "Problem Solving"],
     currentFocus: "Building scalable web applications",
     techPhilosophy: "Code is poetry written in logic",
